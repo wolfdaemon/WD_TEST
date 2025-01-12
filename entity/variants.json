@@ -1,0 +1,32 @@
+{
+	"replace": false,
+	"variants": {
+		"net.minecraft.core.entity.animal.EntityChicken": {
+			"numSkins": 4
+		},
+		"net.minecraft.core.entity.animal.EntityCow": {
+			"numSkins": 4
+		},
+		"net.minecraft.core.entity.animal.EntityPig": {
+			"numSkins": 5
+		},
+		"net.minecraft.core.entity.monster.EntitySkeleton": {
+			"numSkins": 5
+		},
+		"net.minecraft.core.entity.monster.EntitySnowman": {
+			"numSkins": 5
+		},
+		"net.minecraft.core.entity.monster.EntitySpider": {
+			"numSkins": 4
+		},
+		"net.minecraft.core.entity.animal.EntitySquid": {
+			"numSkins": 4
+		},
+		"net.minecraft.core.entity.monster.EntityZombie": {
+			"numSkins": 16
+		},
+		"net.minecraft.core.entity.monster.EntityHuman": {
+			"numSkins": 8
+		}
+	}
+}
